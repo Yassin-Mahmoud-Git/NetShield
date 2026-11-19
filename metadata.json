@@ -1,0 +1,6 @@
+{
+  "name": "NetShield 3D — Network & Cybersecurity Observatory",
+  "description": "An interactive 3D educational observatory explaining computer networking, the OSI 7-layer stack, packet routing, encryption, firewalls, and live cyberattack mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
